@@ -1,0 +1,7 @@
+python-binance
+python-dotenv
+colorama
+streamlit
+streamlit-extras
+streamlit-lottie
+requests
